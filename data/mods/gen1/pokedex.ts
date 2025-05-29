@@ -335,7 +335,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	farfetchd: {
 		inherit: true,
-		baseStats: { hp: 52, atk: 65, def: 55, spa: 58, spd: 58, spe: 60 },
+		baseStats: { hp: 55, atk: 110, def: 55, spa: 60, spd: 65, spe: 105 },
 	},
 	doduo: {
 		inherit: true,
